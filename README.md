@@ -8,9 +8,7 @@
             __/ |                                                              
            |___/                                                               
 ```
-# Ayush Thakur (ayush-thakur02)
-
-## :wave: Welcome to my GitHub World! 
+# :wave: Welcome to my GitHub World! 
 
 I'm Ayush Thakur, and I'm thrilled to have you here. As a dedicated developer, researcher, and Python enthusiast, I believe in the power of code to shape the future and solve real-world challenges. 
 
