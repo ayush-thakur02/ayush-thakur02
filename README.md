@@ -10,25 +10,18 @@
 ```
 # :wave: Welcome to my GitHub World! 
 
-I'm Ayush Thakur, and I'm thrilled to have you here. As a dedicated developer, researcher, and Python enthusiast, I believe in the power of code to shape the future and solve real-world challenges. 
+Hi, I'm Ayush Thakur, and I'm thrilled to have you here. I'm a dedicated AI enthusiast and experienced programmer with proficiency in languages such as C/C++, Java, and Python. I have developed various projects that utilize machine learning and Naltural Language Processing to solve real-world. problems.
+
 
 ## :sparkles: About Me
 
-- :rocket: Founder @ CupNoodles.dev & HighPeeks :mountain_snow:
-- :books: Inquisitive Researcher
-- :snake: Python Enthusiast
-- :gear: Wizard of C
+- Linux System Administrator
+- Inquisitive Researcher
+- AI Enthusiast
+- Skilled in C/C++, Java, Python & Data Structures
+- Vice President - AI Club, Amity University
 
-I have an insatiable thirst for knowledge and love diving deep into complex problems. Whether it's building web applications, analyzing data, or experimenting with cutting-edge technologies, I'm always eager to explore new frontiers.
-
-## :computer: Projects
-
-You'll find an exciting array of projects in my repositories. Here are some highlights:
-
-- :globe_with_meridians: Web Development: Crafting interactive and visually appealing websites is my passion. I love creating seamless user experiences and functional interfaces.
-- :bar_chart: Data Science: I enjoy working with data, uncovering insights, and visualizing information to make data-driven decisions.
-- :robot: Robotics and IoT: I dabble in the world of hardware, building smart and connected devices that push the boundaries of innovation.
-- :scroll: Open Source Contributions: I believe in giving back to the community and actively contribute to open-source projects.
+As a seasoned Linux system administrator, inquisitive researcher, and AI enthusiast with proficiency in multiple programming languages including C/C++, Java, and Python, and a proven track record of leadership as the Vice President of my university's AI club, I possess a unique blend of technical expertise and passion for problem-solving. I am constantly seeking opportunities to expand my knowledge and tackle complex challenges, whether it's optimizing system performance, analyzing data to extract meaningful insights, or exploring the latest advancements in AI technology.
 
 ## :handshake: Let's Connect
 
