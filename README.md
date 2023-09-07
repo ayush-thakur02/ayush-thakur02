@@ -1,4 +1,4 @@
-![Hello](assets/github-header-image.png)
+<img src="https://i.ibb.co/y40MZJ3/github-header-image-3.png" alt="github-header-image-3" border="0">
 
 # :wave: Welcome to my GitHub World! 
 
