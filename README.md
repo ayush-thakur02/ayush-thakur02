@@ -1,12 +1,20 @@
 <img src="https://i.ibb.co/y40MZJ3/github-header-image-3.png" alt="github-header-image-3" border="0">
 
-# :wave: Welcome to my GitHub World! 
+<div align="center" markdown="1">
 
-Hi, I'm Ayush Thakur, and I'm thrilled to have you here. I'm a dedicated AI enthusiast and experienced programmer with proficiency in languages such as C/C++ and Python. I take joy in creating innovative solutions and exploring the possibilities of artificial intelligence. Check out all of my links throught this below badge:
+# :wave: Welcome to my GitHub Profile! 
 
+</div>
+
+Hi, I'm Ayush Thakur, and I'm thrilled to have you here. I'm a dedicated AI enthusiast and experienced programmer with proficiency in languages such as C/C++ and Python. I take joy in creating innovative solutions and exploring the possibilities of artificial intelligence. Check out all of my links throught this:
+  
 [![BioLink](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://bio.link/ayush_thakur02)
 
-## :sparkles: My Skills
+
+<div align="center" markdown="1">
+  
+# :sparkles: My Skills ✨
+
 
 **Operating System:**
 
@@ -36,11 +44,15 @@ Hi, I'm Ayush Thakur, and I'm thrilled to have you here. I'm a dedicated AI enth
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/ayush-thakur02)
 [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://github.com/ayush-thakur02)
 
+</div>
+
 I possess a unique blend of technical expertise and passion for problem-solving. I am constantly seeking opportunities to expand my knowledge and tackle complex challenges, whether it's optimizing system performance, analyzing data to extract meaningful insights, or exploring the latest advancements in AI technology.
 
-## :handshake: Let's Connect
+# :handshake: Let's Connect
 
 I'm always eager to connect with like-minded individuals, developers, and tech enthusiasts. Reach out to me through the following platforms:
+
+<div align="center" markdown="1">
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-thakur02)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayush-thakur02)
@@ -48,8 +60,10 @@ I'm always eager to connect with like-minded individuals, developers, and tech e
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/ayush-thakur02/)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ayush_thakur02)
 
+</div>
+
 Don't hesitate to drop me a message, whether it's for a collaboration, an exciting project idea, or just to say hello!
 
-## :sparkling_heart: Happy Coding!
+# :sparkling_heart: Happy Coding!
 
 Thank you for visiting my GitHub profile. Feel free to explore my projects, star your favorites, and let's embark on an incredible coding journey together. Together, we can make a positive impact on the world through code! :rocket:
