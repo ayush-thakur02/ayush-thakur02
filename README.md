@@ -6,10 +6,12 @@
 
 </div>
 
-Hi, I'm Ayush Thakur, and I'm thrilled to have you here. I'm a dedicated AI enthusiast and experienced programmer with proficiency in languages such as C/C++ and Python. I take joy in creating innovative solutions and exploring the possibilities of artificial intelligence. Check out all of my links throught this:
-  
-[![BioLink](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://bio.link/ayush_thakur02)
 
+<div align="justify" markdown="1">
+
+Hi, I'm Ayush Thakur, and I'm thrilled to have you here. I'm a dedicated AI enthusiast and experienced programmer with proficiency in languages such as C/C++ and Python. I take joy in creating innovative solutions and exploring the possibilities of artificial intelligence.
+
+</div>
 
 <div align="center" markdown="1">
   
@@ -48,11 +50,18 @@ Hi, I'm Ayush Thakur, and I'm thrilled to have you here. I'm a dedicated AI enth
 
 I possess a unique blend of technical expertise and passion for problem-solving. I am constantly seeking opportunities to expand my knowledge and tackle complex challenges, whether it's optimizing system performance, analyzing data to extract meaningful insights, or exploring the latest advancements in AI technology.
 
+<div align="center" markdown="1">
+  
 # :handshake: Let's Connect
+
+</div>
 
 I'm always eager to connect with like-minded individuals, developers, and tech enthusiasts. Reach out to me through the following platforms:
 
 <div align="center" markdown="1">
+
+
+[![BioLink](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://bio.link/ayush_thakur02)
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-thakur02)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayush-thakur02)
@@ -62,8 +71,10 @@ I'm always eager to connect with like-minded individuals, developers, and tech e
 
 </div>
 
-Don't hesitate to drop me a message, whether it's for a collaboration, an exciting project idea, or just to say hello!
 
-# :sparkling_heart: Happy Coding!
+<div align="justify" markdown="1">
 
-Thank you for visiting my GitHub profile. Feel free to explore my projects, star your favorites, and let's embark on an incredible coding journey together. Together, we can make a positive impact on the world through code! :rocket:
+Don't hesitate to drop me a message, whether it's for a collaboration, an exciting project idea, or just to say hello! Thank you for visiting my GitHub profile. Feel free to explore my projects, star your favorites, and let's embark on an incredible coding journey together. Together, we can make a positive impact on the world through code! :rocket:
+
+
+</div>
