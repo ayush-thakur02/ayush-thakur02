@@ -14,6 +14,9 @@ Hello, I'm Ayush Thakur, and I'm delighted to welcome you here. With a passion f
 </div>
 
 <div align="center" markdown="1">
+
+[![Github](https://img.shields.io/badge/My_Web_Portfolio-100000?style=for-the-badge&logo=github&logoColor=white)](https://ayush-thakur02.github.io)
+[![Resume](https://img.shields.io/badge/My_Resume-blue?style=for-the-badge&logo=ghost&logoColor=white)](https://ayush-thakur02.github.io/assets/Ayush%20Resume.pdf)
   
 # :sparkles: My Skills ✨
 
