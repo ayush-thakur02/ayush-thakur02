@@ -1,90 +1,99 @@
-<img src="https://i.ibb.co/y40MZJ3/github-header-image-3.png" alt="github-header-image-3" border="0">
+![github-header](https://i.ibb.co/y40MZJ3/github-header-image-3.png)
 
-<div align="center" markdown="1">
+# 👋 Hi, I'm Ayush Thakur! Welcome to My GitHub!
 
-# :wave: Welcome to my GitHub Profile! 
+I am a **Founder, Research Lead, and AI/ML Engineer** passionate about building impactful products and solving tough problems. My dual degrees (BCA & MCA) at Amity University reflect a commitment to deep learning—backed by 25+ research publications, 10+ copyrights, and ongoing patents. I love developing open-source projects, contributing to AI communities, and breaking boundaries in ML, LLMs, and RGMs.
 
-</div>
+---
 
+## 🚀 About Me
 
-<div align="justify" markdown="1">
-  
-Hello, I'm Ayush Thakur, and I'm delighted to welcome you here. With a passion for pushing the boundaries of technology, I consider myself not just an AI enthusiast, but also a relentless problem solver. My journey in the world of programming has honed my skills in languages like C/C++ and Python, enabling me to craft elegant and efficient solutions. I find true joy in delving into the intricate landscapes of artificial intelligence, where every challenge becomes an opportunity to uncover new horizons and redefine possibilities.
+- **Founder & CEO:** Reconfigure — Machine Learning solutions for real-world impact.
+- **Research Lead:** LLMs & Gen AI, 20+ research papers, IEEE & Scopus author.
+- **Tech Leader:** Vice President, Artificial Intelligence Club, Amity University.
+- **Academic Trainee:** HCLTech, Data Analyst & Developer, LG Electronics, Kailash Healthcare.
+- **Community Builder:** Speaker, IEEE societies, Open-source advocate.
 
-</div>
+---
 
-<div align="center" markdown="1">
-
-[![Github](https://img.shields.io/badge/My_Web_Portfolio-100000?style=for-the-badge&logo=github&logoColor=white)](https://ayush-thakur02.github.io)
-[![Resume](https://img.shields.io/badge/My_Resume-blue?style=for-the-badge&logo=ghost&logoColor=white)](https://ayush-thakur02.github.io/assets/Ayush%20Resume.pdf)
-  
-# :sparkles: My Skills ✨
-
-
-**Operating System:**
-
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/ayush-thakur02)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/ayush-thakur02)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ayush-thakur02)
-[![RedHat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://github.com/ayush-thakur02)
+## ✨ My Skills
 
 **Languages:**
+C, C++, Python, Java, JavaScript, MySQL, HTML/CSS, Markdown
 
-[![C](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/ayush-thakur02)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ayush-thakur02)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/ayush-thakur02)
-[![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/ayush-thakur02)
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/ayush-thakur02)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/ayush-thakur02)
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/ayush-thakur02)
-[![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/ayush-thakur02)
+**Frameworks:**
+Flask, Bash, Powershell, Vercel, Colab, .NET
 
-**Tools/Fameworks:**
+**Technical:**
+Linux, Ubuntu, Windows, RedHat, Data Analysis, Deep Learning, NLP, MLOps (TensorFlow, MMDetection, MMSegmentation, Keras), API Dev, Web Dev (Angular, React, Node.js)
 
-[![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)](https://github.com/ayush-thakur02)
-[![FLask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/ayush-thakur02)
-[![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://github.com/ayush-thakur02)
-[![Powershell](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/ayush-thakur02)
-[![Diagflow](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)](https://github.com/ayush-thakur02)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/ayush-thakur02)
-[![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://github.com/ayush-thakur02)
+**Soft Skills:**
+Problem Solving, Communication, Leadership, Innovation, Project Management, Community Engagement
 
-</div>
+**Research:**
+25+ Publications (IEEE, Scopus, International Journals/Conferences) | 10+ Copyrights | Patents in progress
 
-<div align="justify" markdown="1">
+---
 
-I possess a unique blend of technical expertise and passion for problem-solving. I am constantly seeking opportunities to expand my knowledge and tackle complex challenges, whether it's optimizing system performance, analyzing data to extract meaningful insights, or exploring the latest advancements in AI technology.
+## 📈 Stats & Achievements
 
-</div>
+- **GitHub Contributions:** 100+ this year, active on 18 repos.
+- **Open Source:** Core Dev for Reconfigure, Liquid UI, dot-corec.
+- **IEEE & Scopus:** Published and reviewed internationally.
+- **Awards:** Multiple coding and innovation competition wins.
+- **Languages:** English, Hindi (professional proficiency)
+- **Education:**
+    - BCA & MCA, Amity University, Noida
+    - Training at HCLTech, LG Electronics, Kailash Healthcare
 
-<div align="center" markdown="1">
-  
-# :handshake: Let's Connect
+---
 
-</div>
+## 🔥 Pinned Projects
 
-<div align="justify" markdown="1">
-  
-I'm always eager to connect with like-minded individuals, developers, and tech enthusiasts. Reach out to me through the following platforms:
+### [LCM-LoRA](https://github.com/ayush-thakur02/LCM-LoRA) — ⭐ 35 | Forks 3
+* **Tech:** Jupyter Notebook, Python, Stable Diffusion, LoRA
+* **Summary:** Run LCM LoRA models (based on stable diffusion with LoRA distillation) on Google Colab for fast, high-resolution image synthesis. Supports SDv1.5, SDXL, and SSD 1B. Try it on Colab and generate realistic images with simple prompts!  
+* **Features:** 
+  - Modular, lightweight model distillation.
+  - Free Colab support for experimentation.
+  - Community oriented—star and support for updates!
+* [Get started!](https://colab.research.google.com/github/ayush-thakur02/LCM-LoRA/blob/main/LCM_LoRA.ipynb)
+---
+### [dot-corec](https://github.com/ayush-thakur02/dot-corec)
+* **Tech:** C (88%), Python (10%), Batch, Other
+* **Summary:** Python-like syntax transpiler generating optimized, modular C code. Transpile `.corc` files, see working samples, and leverage modular code generation with memory management and CLI utilities.
+* **Features:**
+  - Fast transpilation pipeline (Lexer → Parser → CodeGen → Output).
+  - MIT licensed and inviting contributions.
+  - Demo suite for Fibonacci, calculator, control flow, GCD, and more.
+---
+### [liquid-ui](https://github.com/ayush-thakur02/liquid-ui)
+* **Tech:** Python (64%), HTML/CSS (36%)
+* **Summary:** Lightweight, modular Python framework for building interactive web user interfaces. Leverage plug-and-play folder structure, demo scripts, extensible HTML templating, and modern CSS assets.
+* **Features:**
+  - Python-first component system (buttons, inputs, sliders, uploads).
+  - Demo-driven rapid prototyping.
+  - State management and reusable grid layouts.
+  - Fully open-source, developer friendly!
+---
+### [object-tracking-opencv](https://github.com/ayush-thakur02/object-tracking-opencv) — ⭐ 9 | Forks 1
+* **Tech:** Python, OpenCV
+* **Summary:** Complete pipeline for Object Tracking and Detection using OpenCV in Python. Plug-and-play scripts for object detection and tracking with frame analysis and ID assignment.
+* **Features:**
+  - Easy-to-follow code for real-time detection and tracking.
+  - Simple install and demo usage.
+  - Example code and guidance for beginners.
 
-</div>
+---
 
-<div align="center" markdown="1">
+## 🌐 Find Me Across the Web
 
+- [LinkedIn](https://www.linkedin.com/in/ayush-thakur02)
+- [BioLink](https://bio.link/ayush_thakur02)
+- [Email](mailto:ayush.th2002@gmail.com)
+- [ORCID](https://orcid.org/0009-0001-4883-2071)
 
-[![BioLink](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://bio.link/ayush_thakur02)
+---
 
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-thakur02)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayush-thakur02)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush.th2002@gmail.com)
-[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/ayush-thakur02/)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ayush_thakur02)
-
-</div>
-
-
-<div align="justify" markdown="1">
-
-Don't hesitate to drop me a message, whether it's for a collaboration, an exciting project idea, or just to say hello! Thank you for visiting my GitHub profile. Feel free to explore my projects, star your favorites, and let's embark on an incredible coding journey together. Together, we can make a positive impact on the world through code!
-
-</div>
+> **"The boundaries of technology exist only to be surpassed."**  
+Feel free to connect, collaborate, star your favorite projects, or just drop a “Hi!”—let’s make technology better together.
